@@ -1,0 +1,17 @@
+h2. conf+scripts
+
+These are just some personal config files and scripts that I want to keep save and that might be of interest for others too. I would be very interessted in any feedback so feel free to drop me a line. 
+
+/tokei, tokei@cccmz.de
+
+
+h2. Table of contents:
+
+* .gitconfig - global git configuration with some colors
+* bashrc
+** .bashrc - main .bashrc with prompt and paths
+** alias.sh - useful aliases
+** parse_git_branch.sh - bash function to parse the git branch of the current directory to be used in the prompt
+* .vimrc - vim configuration with tab options and functions to toggle syntax and spell check
+
+_Please remember that most of the config files start with a dot so they might not show up on a `ls`, depending on your parameters._
