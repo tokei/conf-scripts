@@ -7,3 +7,13 @@ they might not show up on a `ls`, depending on your parameters.
 I would be very interessted in any feedback so feel free to drop me 
 a line.
                                                 tokei, tokei@cccmz.de
+
+
+Table of contents:
+
+* .gitconfig - global git configuration with some colors
+* bashrc
+    * .bashrc - main .bashrc with prompt and paths
+    * alias.sh - useful aliases
+    * parse_git_branch.sh - bash function to parse the git branch of 
+        the current directory to be used in the prompt
