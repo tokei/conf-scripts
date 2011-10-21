@@ -1,3 +1,14 @@
+# 
+# This can be used as global git configuration. Link it to your home directory
+# by doing this from inside your home
+#
+#   $ ln -s /path/to/conf-scripts/gitconfig .gitconfig
+#
+# or copy it to your home directory. To find out more about git and it's config, 
+# use 
+#
+#   $ man git-config
+#
 [core]
 	editor = vim
 
