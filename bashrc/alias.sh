@@ -15,3 +15,5 @@ alias lll='ls -lAhp'
 
 # always use colored and case insensitive grep
 alias grep='grep --color=always -i'
+
+alias gittokei='git config user.name tokei && git config user.email tokei@cccmz.de'
